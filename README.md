@@ -5,8 +5,9 @@
 [![Discord.js](https://img.shields.io/badge/Discord.js-14.14.1+-blue.svg)](https://discord.js.org/)
 
 
-<h3>Basit Hâlli</h3>
-<p>Bu projenin sade/temel versiyonu için aşağıdaki bağlantıya göz atın:</p>
+
+<h3>Simple Version</h3>
+<p>See the key below for this alternative, simple/basic version:<p>
 <p>
   <a href="https://github.com/apo411/discord-patlatma-botu"
      target="_blank" rel="noopener noreferrer"
